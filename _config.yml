@@ -1,0 +1,10 @@
+# Site settings
+email: "eric@ericshen.com"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ericshen.com" # the base hostname & protocol for your site
+resumelink: "https://dl.dropboxusercontent.com/u/1394737/resume.pdf"
+githublink: "https://github.com/erictshen"
+linkedinlink: "https://www.linkedin.com/in/erictshen"
+
+# Build settings
+markdown: kramdown

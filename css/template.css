@@ -1,0 +1,84 @@
+/* Home Page css ====================*/
+.nameheader {
+	margin-bottom:0px;
+	margin-top:12px;
+}
+
+.welcomeheader {
+	font-size:24px;
+	margin-top:10px;
+	font-weight:200;
+}
+
+.rollupimage {
+	padding-top:5px;
+	padding-bottom:15px;
+}
+
+/* for image spacing at bottom of page ==========*/
+.img-paddingbottom {
+	padding-bottom:10px;
+}
+
+
+html,
+body {
+	height:100%;
+}
+
+/* For scrollspy =======================*/
+body {
+	position:relative;
+}
+
+/* For the fixed navbar ===================== */
+.wrapper {
+	padding-top: 50px;
+}
+
+/* Miscellaneous css for all text elements ==============*/
+p {
+	font-family: Arialp, sans-serif;
+	font-size: 12pt;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.align-center {
+	text-align: center
+}
+
+.no-top-margin {
+	margin-top: 0px !important;
+}
+
+.header-less-weight {
+	font-weight: 300;
+}
+
+/* Section dividers ======================================*/
+.section-divider {
+  margin: 50px 0; /* Space out the Bootstrap <hr> more */
+}
+
+.first-col {
+	margin-top: -20px;
+}
+
+
+/* Footer =========================*/
+
+#footer .col-md-12 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.footer-divider {
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
+}
