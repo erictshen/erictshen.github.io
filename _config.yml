@@ -1,0 +1,8 @@
+# Site settings
+email: "eric@ericshen.com"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ericshen.com" # the base hostname & protocol for your site
+linkedinlink: "https://www.linkedin.com/in/erictshen"
+
+# Build settings
+markdown: kramdown
